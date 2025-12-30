@@ -32,7 +32,7 @@ Add this to your MCP client configuration (e.g., Antigravity, Claude Code, or VS
 "redshift-mcp": {
   "command": "py",
   "args": ["redshift_mcp_server.py"],
-  "cwd": "c:/Users/santo/OneDrive/Desktop/workspace/redis connection",
+  "cwd": "c:/Users/deepa/OneDrive/Desktop/workspace/redis connection",
   "env": {
     "REDSHIFT_HOST": "localhost",
     "REDSHIFT_PORT": "5432",
